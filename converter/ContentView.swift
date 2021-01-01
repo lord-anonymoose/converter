@@ -242,7 +242,6 @@ struct timeView: View {
 }
 
 
-
 struct ContentView: View {
     let modes = ["temperature", "distance", "time"]
     @State private var currentMode = 0
